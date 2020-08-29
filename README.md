@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# List of useful resources
+*by Melnyk Mykola*
 
-You can use the [editor on GitHub](https://github.com/MMMelnik/mmmelnik/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 1. GIT
+* ### Git How To 
+  <p>
+    https://githowto.com/ <br>
+    Git How To is a guided tour that walks through the fundamentals of Git, <br> 
+    inspired by the premise that to know a thing is to do it.
+  </p>
+## 2. .NET
+* ###Microsoft Learn
+  <p> 
+    https://docs.microsoft.com/en-us/learn/ <br>
+    Here you can find some step-by-step tutorials like "Take your first steps with C#" (beginner) <br> 
+    or "Implement resiliency in a cloud-native ASP.NET Core microservice" (advanced)
+  </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MMMelnik/mmmelnik/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
